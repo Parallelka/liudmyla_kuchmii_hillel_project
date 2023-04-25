@@ -1,6 +1,8 @@
 img {
     border-radius: 15px;
     border: 15px solid #ddd;
+    width: 300px;
+    padding: 5px;
 }
 
 
